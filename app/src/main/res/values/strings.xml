@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GetirHackathonTask3</string>
+    <string name="records">Records</string>
+    <string name="date_range">Pick date range</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="min_count">Minimum Count</string>
+    <string name="max_count">Maximum Count</string>
+    <string name="search_records">Search Records</string>
+    <string name="next_page">Next Page</string>
+    <string name="previous_page">Previous Page</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="no_records">No records.</string>
+
+</resources>
